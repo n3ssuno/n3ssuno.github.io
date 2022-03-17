@@ -1,3 +1,16 @@
+@font-face {
+    font-family: LibreBaskerville;
+    src: url("LibreBaskerville-Regular.otf") format("opentype");
+}
+@font-face {
+    font-family: EBGaramond12;
+    src: url("EBGaramond12-Regular.otf") format("opentype");
+}
+
+body {
+    font-family: "EBGaramond12", serif !important;
+}
+
 header {
     background-color: whitesmoke;
 }
