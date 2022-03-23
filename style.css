@@ -14,3 +14,8 @@ body {
 header {
     background-color: whitesmoke;
 }
+
+.external-link i {
+    font-size: 1.5rem;
+    margin: 1rem .5rem;
+}
