@@ -19,3 +19,30 @@ header {
     font-size: 1.5rem;
     margin: 1rem .5rem;
 }
+
+.first-line {
+    margin-bottom: -1rem;
+}
+
+
+/* LaTeX logo
+   <span class="latex">L<sup>a</sup>T<sub>e</sub>X</span> */
+.latex {
+    text-transform: uppercase;
+    font-size: 1em;
+} 
+.latex sub {
+    text-transform: uppercase;
+    vertical-align: +0.2ex;
+    margin-left: -0.16em;
+    margin-right: -0.1em;
+    font-size: 1em;
+}
+.latex sup {
+    text-transform: uppercase;
+    vertical-align: -0.3em;
+    margin-left: -0.3em;
+    margin-right: -0.1em;
+    font-size: 0.75em;
+}
+/* END LaTeX logo */
