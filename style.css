@@ -46,13 +46,3 @@ header {
     font-size: 0.75em;
 }
 /* END LaTeX logo */
-
-
-
-.icon-gitlab {
-    background-image: url("gitlab.svg");
-    background-position: center center;
-    height: 1.5rem;
-    line-height: 1.5rem;
-    width: 1.5rem;
-}
